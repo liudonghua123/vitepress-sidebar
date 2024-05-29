@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a3 as a}from"./chunks/framework.BMY8ZfS1.js";const m=JSON.parse('{"title":"API","description":"","frontmatter":{"order":2},"headers":[],"relativePath":"guide/api.md","filePath":"guide/api.md"}'),i={name:"guide/api.md"},d=a("",153),r=[d];function l(n,s,c,h,u,p){return t(),o("div",null,r)}const b=e(i,[["render",l]]);export{m as __pageData,b as default};
